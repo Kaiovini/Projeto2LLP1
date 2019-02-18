@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1537325980 source:c:\users\kaiov\documents\arquivos em c\segundoprojeto\main.cpp
+	<iostream>
+	"casa.h"
+	"Apartamento.h"
+	"Casa.h"
+	"Imovel.h"
+
+1537331576 source:c:\users\kaiov\documents\arquivos em c\segundoprojeto\src\terreno.cpp
+	"Terreno.h"
+
+1537395874 c:\users\kaiov\documents\arquivos em c\segundoprojeto\include\terreno.h
+	<Imovel.h>
+
+1537330452 source:c:\users\kaiov\documents\arquivos em c\segundoprojeto\src\casa.cpp
+	"Casa.h"
+
+1537402645 c:\users\kaiov\documents\arquivos em c\segundoprojeto\include\casa.h
+	"Imovel.h"
+
+1537327549 source:c:\users\kaiov\documents\arquivos em c\segundoprojeto\src\apartamento.cpp
+	"Apartamento.h"
+
+1537401038 c:\users\kaiov\documents\arquivos em c\segundoprojeto\include\apartamento.h
+	"Imovel.h"
+
+1537330750 source:c:\users\kaiov\documents\arquivos em c\segundoprojeto\src\imovel.cpp
+	"Imovel.h"
+	<string>
+
+1537398667 c:\users\kaiov\documents\arquivos em c\segundoprojeto\include\imovel.h
+	<string>
+
+1537397442 source:c:\users\kaiov\documents\arquivos em c\segundoprojeto\imovel.cpp
+	"Imovel.h"
+	<string>
+
+1537330452 source:c:\users\kaiov\documents\arquivos em c\segundoprojeto\apartamento.cpp
+	"Apartamento.h"
+
+1537331157 source:c:\users\kaiov\documents\arquivos em c\segundoprojeto\terreno.cpp
+	"Terreno.h"
+
+1537329912 c:\users\kaiov\documents\arquivos em c\segundoprojeto\terreno.h
+	"Imovel.h"
+
